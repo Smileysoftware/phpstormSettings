@@ -1,0 +1,49 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="99cfd53e-b329-4366-8165-115a9089973b" name="Laravel test" url="http://laravel">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="1da4de99-eacf-450b-9d6a-5e23f0a2cd6f" name="cmsv2" url="http://cmsv2">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9dcdd3bc-8bc5-440b-a5a9-8ff63c7c1a69" name="eStore" url="http://estore">
+        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs" password="dfdddfdddfcbdfe8df9ddf98dfeadf92" username="lyle">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ae8f4ec-a188-4e9f-acb8-eb7805d116ef" name="wiki" url="http://wiki">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="1d8a7dba-0d36-44f6-b6be-58d9cb053577" name="CMS" url="http://cms">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7e36e5b2-988d-410c-89f1-e111f5462022" name="W" url="http://w">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0915aac3-f4b4-4c5e-b0d7-0229037d0d31" name="David" url="http://david">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e4a66129-5953-4409-8ed9-2bbe2e636e5c" name="Merchant Warriror" url="https://mw">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4ae30ffd-104d-4aff-8a70-169e74935eda" name="t" url="http://t.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="24c15248-683e-4a92-ac4e-e6620ff357de" name="g.dev" url="http://g">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4223ad55-d053-4704-8998-995744175b32" name="lyle.eqstage.co.uk" url="http://lyle.eqstage.co.uk">
+        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs" password="dfdddfdddfcbdfe8df9ddf98dfeadf92" username="lyle">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2f7431f0-2d28-494d-99c4-c2b7074cd486" name="Elem" url="http://elem.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

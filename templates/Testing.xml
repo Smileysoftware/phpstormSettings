@@ -1,0 +1,9 @@
+<templateSet group="Testing">
+  <template name="testcase" value="/** @test */&#10;public function $testName$()&#10;{&#10;    $cursor$&#10;}" description="Test" toReformat="false" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

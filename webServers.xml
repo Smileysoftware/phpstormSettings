@@ -44,6 +44,9 @@
       <webServer id="2f7431f0-2d28-494d-99c4-c2b7074cd486" name="Elem" url="http://elem.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="54338cc8-7561-4c9a-bb77-752ba867e9e9" name="temp.dev" url="http://temp.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

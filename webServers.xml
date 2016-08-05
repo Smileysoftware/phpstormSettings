@@ -47,6 +47,9 @@
       <webServer id="54338cc8-7561-4c9a-bb77-752ba867e9e9" name="temp.dev" url="http://temp.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="03205968-24b4-4ade-8cc4-4595b9917882" name="Brews" url="http://brews">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

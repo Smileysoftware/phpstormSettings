@@ -8,7 +8,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="9dcdd3bc-8bc5-440b-a5a9-8ff63c7c1a69" name="eStore" url="http://estore">
-        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs" password="dfdddfdddfcbdfe8df9ddf98dfeadf92" username="lyle">
+        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs">
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
@@ -34,7 +34,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="4223ad55-d053-4704-8998-995744175b32" name="lyle.eqstage.co.uk" url="http://lyle.eqstage.co.uk">
-        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs" password="dfdddfdddfcbdfe8df9ddf98dfeadf92" username="lyle">
+        <fileTransfer host="lyle.eqstage.co.uk" port="21" rootFolder="/httpdocs">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -51,5 +51,8 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABEJ2uNvdwyrJ9yYXuDGHL8ZDZDoYAf6f2Vr16KCi+Ecg7wiPjZNYcuLNzF+gJLPJgxWtI9Jlw+0idN6td4QCn9Whnz80milBSzOnDbQO5ni3e6gWnkVYITquw8J/NBTFtigrndcq7Pw+JKd3yfy7DWAJBHvFZvj0Iyqz9XXjtM+CQnwjUj7Zrp2ZRnECoUMzpn3TAj8thSY/kAas1grvNtWxZaf+9m7CvmJogFoBBXmsAa7NrjfJzdC4bIYfLPP3fItM3lH2Wiek4K9ndAxwCTHb33/KpWi+Re3zTxDSXr7X84QYLFW94Rgt0M0fZWYhKwix8bIZomfIoMPP9HlxvAq5p+Vy52tMxT9l6xDXKU33fhpZY3hAVWJ+leq1zVBy7kQ==</data>
   </component>
 </application>

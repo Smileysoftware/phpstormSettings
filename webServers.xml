@@ -47,12 +47,12 @@
       <webServer id="54338cc8-7561-4c9a-bb77-752ba867e9e9" name="temp.dev" url="http://temp.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="03205968-24b4-4ade-8cc4-4595b9917882" name="Brews" url="http://brews">
+      <webServer id="03205968-24b4-4ade-8cc4-4595b9917882" name="Brews" url="https://cseq.eqstage.co.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABEB30dOU4XKTsEQlxWxSRzmzprsjojckedYNvHyRwGjH2VnuXDFYI/hDxMWtF7Sto+RQG8nu8dTeVQtfgTlebLW25PXHGkSitg80kMvxGTaaR0s9D744y6KR+Hv3obgmgUYEI5tmrn5sEWIwEXbPJ35Z4OcFS9GdrYfnyeS7NWdllnelv/NbIzTJJ6sk+mnc8ytCIPusxE7Fsf7lSY3iz2pLhAuxtp6FtSiyE2wn3xnMu331burx4fhiy2Muu0sKQe9yfJfOH9nqjg7gWvr5YNMfdFmDgpikhFvbkzKxjP6vzGneQ8FkijQ674Ruicvud4eISRa1V4A6qaq73SI1WcJqZJTBJcmY91i/r4fySEJPtWLDMcAIUVY9FlbJ4/orb1w==</data>
+    <data>AAABEJ/RDDCiZJ5ykHBU3vg6i88sCYugAurmQEa4JuvKHY7XNH1+t0dY8ByfTQ7VtTA30cGXc1EWGGjoTx1KiubYzePFmr5cBKB59OYqOmZN6V+AtWZi1yiB0ka7yZLHVWmBbF0KpcETqMzQhGWqIcyv2jS24O2r3Z4KUUBeco913hAYMQxQkG9fRpgY3+4AL3YhXcysVtjKdk1USI+eswDZYrZdpuxE2cWED8ZefZzxjLnnhciMfB7VdGpxllVSHcWX4ZkJ0Y83LNrVbwvpdOZFN/0yYHP0UivLQppZc6h+eGOKSjsO7zZUiZ73JhDmSxvutHFXlzO3hxNTOV2j284Bg8O7TsoMqM3GbDgrWjW+0JTbcz7YL2+++PePUBScsIvOUQ==</data>
   </component>
 </application>

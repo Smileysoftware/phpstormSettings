@@ -50,9 +50,12 @@
       <webServer id="03205968-24b4-4ade-8cc4-4595b9917882" name="Brews" url="https://cseq.eqstage.co.uk">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="dfa7a81f-3175-49eb-9267-3d0ad827a733" name="homer.dev" url="http://homer.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABEMV8XXvcfyNu+XhtPjJKY2zfGyyXZonShS/7joL84ZlMlSxiU5hjmBln14l2VmZktzDyeb0QqzC/WtQB/KXC12s4CPnP8QCiVjt44EA/sVfRptR27oz7tdee8b+O8Z0QdY/PnGOoYhOtjwzZkHWM27sAOAMMZr5z6xxKEA8JT8INHSz0CjESjfjeSOmPjbWf4PnQlqmoYSVpmfTY663fmcoTLOqDpaKkEvolgh8Or1ppiy2TmfSKm3NBdhPLdDEMNMAuVeEpnBe2nH+6YnBFhGuCF3ulsUNQbTXnoCsJnNQzJtRFNyNgP3zbkh2VWPyQZ5U3eMh0fBUrOgZ1hesJCPkoAte3KxrU8b3w8w3jctOPYTxpj4+7d+M+TrSmIiC0Bg==</data>
+    <data>AAABEDI42pLjIiUu/9TTe1orNhKS/K+15Fst9CbEJZJQ3wEjqWm8t42IJNNAIHhtqvnjeoDfSM0dZIsOgeKZCVTBzcx3SogZeLdGRbQnjSpJkZtQsluPu3eqjlzdJmL2X9DsS2jlrnCWG5S3PatHPHS6KkCICZbQ+3KksqY4s2RMeIPmFOzuGqo/rcQOWNnZ6eBpZWAnok/CnzEO68WloflJfLpkAeowYO7l6t5k7Mm+DmcQ8oK00lvWqW49sevs/HS5yarFq3Nw9IU4xLJP7IRNYfvkyogCvJ7Jta2G6j9Jt5ImDlE/M3lXkukFsl9ja2awxvE/QTXmlT+2TRXHcR4jDw+REiySPcI3zKpN19Jyhe2Qt/3G4B1feDnL+DoqxVlKMQ==</data>
   </component>
 </application>

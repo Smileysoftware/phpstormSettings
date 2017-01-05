@@ -13,4 +13,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="tranny" value="DB::beginTransaction();&#10;&#10;try{&#10;&#10;    $cursor$&#10;&#10;} catch( Exception $e ){&#10;&#10;    DB::rollback();&#10;}&#10;&#10;DB::commit();" description="Build a transaction" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -53,6 +53,9 @@
       <webServer id="dfa7a81f-3175-49eb-9267-3d0ad827a733" name="homer.dev" url="http://homer.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ca3f0f57-df85-4cb1-8f64-074060a4aab1" name="fakedata" url="http://fakedata.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

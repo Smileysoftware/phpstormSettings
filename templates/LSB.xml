@@ -26,4 +26,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="dnd" value="\App\Http\Helper::dnd($P$);" description="Dont Die and Dump" toReformat="false" toShortenFQNames="true">
+    <variable name="P" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

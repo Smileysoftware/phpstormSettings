@@ -56,6 +56,9 @@
       <webServer id="ca3f0f57-df85-4cb1-8f64-074060a4aab1" name="fakedata" url="http://fakedata.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d655d9b2-055d-4ad8-bf5a-3e3e472079f3" name="bc" url="http://bc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

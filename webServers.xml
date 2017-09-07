@@ -59,6 +59,9 @@
       <webServer id="d655d9b2-055d-4ad8-bf5a-3e3e472079f3" name="bc" url="http://bc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ccc08b5e-fe14-40be-8d93-9163c1e113e7" name="lb.dev" url="http://lb.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

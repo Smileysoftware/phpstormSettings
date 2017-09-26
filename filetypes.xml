@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="js/ace/ace/js" type="JavaScript" />
+      <mapping ext="vue" type="JavaScript" />
       <mapping pattern="*.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />

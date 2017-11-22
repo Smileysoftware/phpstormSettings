@@ -62,6 +62,14 @@
       <webServer id="ccc08b5e-fe14-40be-8d93-9163c1e113e7" name="lb.dev" url="http://lb.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b2cd091d-2bd4-4548-9243-ca6472cf8dd8" name="Holly" url="http://holly.eqdev.co.uk">
+        <fileTransfer host="holly.eqdev.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
